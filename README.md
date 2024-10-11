@@ -1,5 +1,8 @@
 ## ¡Que tal, bievenido soy Lázaro Salinas! 👋
 
+Actualmente me encuentro en busquda de una oportunidad laboral.
+[Aqui puedes ver mi CV!](https://github.com/LazoTazo/LazoTazo/blob/main/L%C3%A1zaro%20Salinas%20-%20CV.pdf)
+
 ### Sobre mi:
 
 Soy un Ingeniero en Desarrollo y Gestión de Software recien egresado especializado en **.NET**, **Blazor** y **C#**. Me gusta construir aplicaciones web escalables y explorar solucions a problemas reales.
