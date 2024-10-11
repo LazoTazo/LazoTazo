@@ -16,8 +16,8 @@ Cuando no estoy programando o trabajando, puedes encontrarme jugando videojuegos
 
 ### ⏭️ En que estoy trabajando
 - Construyendo paneles interactivos con **Blazor**.
-- Revisando cambios de .NET Core 6 a .NET Core 8.
-- Experimentando con otras tencologías como **React**.
+- Aprendiendo más sobre .NET.
+- Experimentando con otras tencologías.
 
 ### 💡 Datos Curiosos 
 - Soy un gran fan de los videojuegos de rol como Final Fantasy 🐉, de la tecnología en general 🤖 y por su puesto de la computación 👨‍💻.
